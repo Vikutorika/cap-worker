@@ -30,7 +30,7 @@
 	},
 	"observability": {
 		"enabled": true
-	}
+	},
 	"route": "cap.bili33.top/*"
 	/**
 	 * Smart Placement
