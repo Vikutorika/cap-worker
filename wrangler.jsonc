@@ -31,6 +31,7 @@
 	"observability": {
 		"enabled": true
 	}
+	"route": "cap.bili33.top/*"
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
